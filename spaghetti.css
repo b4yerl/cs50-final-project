@@ -1,0 +1,45 @@
+#recipe-container {
+  width: 75%;
+  background-color: #f22;
+  border-radius: 16px;
+  color: white;
+  padding: 8px;
+  margin: 64px auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  border-bottom: solid 1px rgba(0, 0, 0, 0.2);
+}
+
+#ingredients {
+  text-align: center;
+  list-style-position: inside;
+  padding: 0;
+}
+
+.step {
+  text-align: center;
+  text-shadow: 2px 0 5px black;
+}
+
+p {
+  padding: 0 64px;
+  text-align: justify;
+}
+
+h2 a {
+  text-decoration: none;
+  color: white;
+}
+
+h2 a:visited {
+  color: white
+}
+
+h2 a:hover {
+  color: lightseagreen
+}

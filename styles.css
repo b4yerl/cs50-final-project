@@ -78,7 +78,7 @@ main {
 
 footer {
   height: 30px;
-  width: 100vw;
+  /* width: 100vw; */
   text-align: center;
   background-color: #ff2222;
 }
@@ -89,4 +89,8 @@ footer {
   font-weight: 700;
   text-decoration: none;
   transition: 0.5s;
+}
+
+#footer-link:hover {
+  color: lightseagreen
 }
